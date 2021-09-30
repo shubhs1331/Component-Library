@@ -48,3 +48,26 @@ hr{
     padding:0rem 0.5rem
 }
 
+.navigation{
+    background-color: var(--primary--color);
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.nav-brand{
+   font-size: 1.2rem; 
+   font-weight: bold;
+   color:white
+}
+
+.navigation .links{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.navigation .nav-pills{
+    text-align:right;
+}
+
